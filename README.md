@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <em>Developed collaboratively by <a href="https://github.com/AbdelruhmanAshraf"><strong>Abdelrahman Elfekky</strong></a> &amp; <a href="https://www.mtarif.com"><strong>Mtarif (Tefooh)</strong></a></em>
+</p>
+
+<p align="center">
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-0.81.5-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /></a>
   <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-SDK_54-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo SDK 54" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.1.0-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" /></a>
@@ -295,8 +299,12 @@ Firebase Storage ordinarily requires activating Google Cloud billing. To keep th
 
 ## 🤝 Credits & Attribution
 
-- **Original Project Creator**: [Mtarif (Tefooh)](https://www.mtarif.com)
-- **Repository Maintainer**: [Abdelrahman Elfekky](https://github.com/AbdelruhmanAshraf)
+This project is a collaborative effort developed together by:
+
+- **[Abdelrahman Elfekky](https://github.com/AbdelruhmanAshraf)** — Co-Creator & Developer
+- **[Mtarif (Tefooh)](https://www.mtarif.com)** — Co-Creator & Developer
+
+Both contributed to the architecture, design, and implementation of the customer mobile application, admin dashboard, and backend services.
 
 ---
 
