@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="Food App Logo" width="130" style="border-radius: 24px;" />
-</p>
-
 <h1 align="center">🍔 Food App</h1>
 
 <p align="center">
@@ -171,7 +167,6 @@ FoodApp/
 ├── firebaseConfig.js               # Global shared Firebase configuration
 ├── firestore.rules                 # Cloud Firestore security rules
 ├── storage.rules                   # Firebase Cloud Storage security rules
-├── logo.png                        # Food App emblem
 ├── LICENSE                         # License terms
 └── README.md                       # Project documentation
 ```
